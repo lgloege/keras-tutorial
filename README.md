@@ -25,8 +25,8 @@ from tensorflow import keras
 ```
 
 # notebooks
-This is a collection of examples using the keras API:
-- [Keras regression on Boston housing prices](http://nbviewer.jupyter.org/github/lgloege/keras-tutorial/blob/master/notebooks/keras_boston_housing_prices.ipynb)
+This is a collection of examples using the keras API.
+Notebooks can be accessed and modified via binder [here](https://mybinder.org/v2/gh/lgloege/keras-tutorial/master?filepath=notebooks)
 
 # doc
 This contains documentation files:
